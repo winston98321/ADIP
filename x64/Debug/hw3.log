@@ -1,0 +1,78 @@
+﻿  hw3.cpp
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(105,24): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(143,21): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(176,22): warning C4244: '=': 將 'unsigned __int64' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(191,32): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(209,22): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(210,26): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(221,69): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(222,58): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(232,30): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(233,28): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(244,30): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(245,28): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(256,30): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(257,28): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(267,30): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW3\hw3\hw3\hw3.cpp(268,28): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+  hw3.vcxproj -> D:\桌面\ADIP\HW3\hw3\x64\Debug\hw3.exe
