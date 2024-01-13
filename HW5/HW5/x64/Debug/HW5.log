@@ -1,0 +1,30 @@
+﻿  3_1.cpp
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(104,33): warning C4244: '=': 將 '_Ty' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(150,20): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(158,22): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(216,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(258,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(272,25): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(324,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\桌面\ADIP\HW5\HW5\HW5\3_1.cpp(326,16): warning C4244: '=': 將 'double' 轉換為 '_Ty'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=int
+          ]
+  HW5.vcxproj -> D:\桌面\ADIP\HW5\HW5\x64\Debug\HW5.exe
