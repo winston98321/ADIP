@@ -3,7 +3,7 @@ NTUT 2023_Fall_ADIP_hw
 # Advanced Digital Image Processing Project
 
 ## Introduction
-This project is part of the Advanced Digital Image Processing (ADIP) course. I used pure C++ to implement the algorithms, but in some instances, I utilized OpenCV's built-in cod in professor's require. 
+This project is part of the Advanced Digital Image Processing (ADIP) course. I used pure C++ to implement the algorithms, but in some instances, I utilized OpenCV's built-in code in professor's require. 
 Please give a star if you think it's helpful
 
 ## Note to Beginners
