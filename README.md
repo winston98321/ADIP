@@ -1,10 +1,10 @@
 # ADIP
-2023_Fall_ADIP_hw
+NTUT 2023_Fall_ADIP_hw
 # Advanced Digital Image Processing Project
 
 ## Introduction
 This project is part of the Advanced Digital Image Processing (ADIP) course. I used pure C++ to implement the algorithms, but in some instances, I utilized OpenCV's built-in cod in professor's require. 
-I hope the solution could help who 
+Please give a star if you think it's helpful
 
 ## Note to Beginners
 I hope that open-sourcing this project can help beginners in C++ to get an introduction and overcome the most challenging times. I understand the frustrations that can occur while taking this course. However, I do not condone mindless copying, as it will not help you in the long run. It may lead to difficulties in completing your final project.
@@ -144,7 +144,6 @@ I hope that open-sourcing this project can help beginners in C++ to get an intro
 
 ### 3. Geometric Transformation
 - Restore distorted image using warping relationship
-- 
-Please give a star if you think it's helpful
+
 
 
